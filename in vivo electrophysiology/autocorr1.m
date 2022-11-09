@@ -1,3 +1,4 @@
+%A data collection (part 1) of autocorrelation plot YANAN ZHAO 04102022. 
 advselect={};
 animalnum=6;
 for y=1:animalnum

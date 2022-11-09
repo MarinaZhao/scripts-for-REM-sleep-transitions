@@ -1,3 +1,5 @@
+%part 1 of autocorrelation plot YANAN ZHAO 04102022. Please refer to part 1
+%for data collection.
 % adv=xlsread('96-3.8375-adv.xlsx','r');
 
 % advselect=advunit2;

@@ -1,3 +1,5 @@
+% Linearregression NEURAL DATA YANAN ZHAO 02032021. Please refer to
+% original publication for source data
 x=1:30;
 count=xlsread('r-30s-231.xlsx','Sheet1');
 y=mean(count);

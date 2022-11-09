@@ -1,3 +1,4 @@
+%A meanfrequency plot YANAN ZHAO 05242022. Please refer to original publication for source data
 r=xlsread('meanfrequ.xlsx','r');
 s=xlsread('meanfrequ.xlsx','s');
 w=xlsread('meanfrequ.xlsx','w');

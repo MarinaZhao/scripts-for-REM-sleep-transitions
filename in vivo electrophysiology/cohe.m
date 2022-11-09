@@ -1,3 +1,4 @@
+%A coherence plot YANAN ZHAO 04242022. Please refer to original publication for source data
 coh=xlsread('coherence.xlsx','realdata');
 unitn=12;
 frequency=coh(:,1);

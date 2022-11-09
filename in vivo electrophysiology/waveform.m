@@ -1,3 +1,5 @@
+% Waveform plot NEURAL DATA YANAN ZHAO 01032021. Please refer to
+% original publication for source data.
 spon=xlsread('waveform.xlsx','waveform_black');
 for j=1:500;
     spontan=[];

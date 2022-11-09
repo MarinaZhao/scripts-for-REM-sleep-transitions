@@ -1,4 +1,4 @@
-%A raster plot CHAPTER 13 NEURAL DATA ANALYSIS:ENCODING 641-4.08
+%A raster plot NEURAL DATA, YANAN ZHAO 04182022. Please refer to original publication for source data
 a=xlsread('forshow_642-4.0-006.xlsx','r_spike2');
 j=length(a);
 subplot(1,2,1)

@@ -1,4 +1,4 @@
-%A peri-stimulus time histogram CHAPTER 13 NEURAL DATA ANALYSIS:ENCODING
+%A peri-event firing rate plot YANAN ZHAO 02052021. Please refer to original publication for source data
 a=xlsread('r2w-96.xlsx');
 N=96;
 for i=1:N
